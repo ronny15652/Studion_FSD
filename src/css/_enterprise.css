@@ -1,0 +1,62 @@
+.hero {
+  margin-top: -1px;
+  margin-left: -3px;
+}
+
+.banner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  overflow: unset;
+}
+
+.info_div h1 {
+  font-size: 1.5625rem;
+  line-height: 1.9375rem;
+  font-weight: 700;
+}
+.info_div p {
+  font-size: 1.0625rem;
+  line-height: 1.9375rem;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
+
+.img__banner {
+  
+}
+
+.info__banner {
+  width: 31.25rem;
+  padding-top: 6.9375rem;
+  text-align: left;
+  line-height: 1.6875rem;
+}
+.info__banner h1 {
+  line-height: 1.9375rem;
+  font-weight: 700;
+  font-family: "Montserrat";
+}
+.info__banner p {
+  width: 403px;
+  height: 444px;
+}
+.man__img {
+  margin-left: -18rem;
+  padding-top: 2.6875rem;
+  height: 100%;
+}
+
+.parcerias__enterprise {
+  background-color: var(--color-primary);
+  text-align: center;
+}
+
+.marcas__enterprise {
+  padding: 4rem 0 5.1875rem 0;
+  margin-left: -30vw;
+  overflow: unset;
+}
+
+.img__mp4 {
+  padding: 5rem 4rem 5.625rem 4rem
+}
