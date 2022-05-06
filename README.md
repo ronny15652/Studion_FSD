@@ -1,2 +1,2 @@
-# studion
-Projeto de Pagina de Eventos do Curso da IMAGINE SCHOOL
+# Studio_FSD
+Trabalho Do Curso Full Stack JS
