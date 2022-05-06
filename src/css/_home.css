@@ -109,7 +109,7 @@
 /* QUOTE */
 
 .quote {
-  background-image: url(../images//home/parallax.jpg);
+  background-image: url(/src/images/home/parallax.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
