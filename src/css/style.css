@@ -9,7 +9,7 @@
 
 @import '/src/css/_navbar.css';
 @import '/src/css/_hero.css';
-@import './src/css/_footer.css';
+@import '/src/css/_footer.css';
 
 @import '/src/css/_home.css';
 @import '/src/css/_contacts.css';
